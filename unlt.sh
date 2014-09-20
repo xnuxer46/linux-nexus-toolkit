@@ -234,7 +234,7 @@ fi
 printHeader () {
 clear
 echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
-echo "+               Google Nexus Toolkit untuk ubuntu by @xnuxer46                 +"
+echo "+             Google Nexus Toolkit untuk ubuntu v1 by @xnuxer46                +"
 echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
 }
 
