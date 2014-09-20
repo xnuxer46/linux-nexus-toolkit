@@ -2,7 +2,7 @@
 
 #   Copyright 2014 Rizki N @xnuxer46
 #
-#   Licensed under GNU/GPL v3, 
+#   Licensed under GNU/GPL 
 
 # /*** Environment Variables ***/
 
@@ -234,7 +234,7 @@ fi
 printHeader () {
 clear
 echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
-echo "+                Google Nexus Toolkit untuk ubuntu by @xnuxer46                +"
+echo "+               Google Nexus Toolkit untuk ubuntu by @xnuxer46                 +"
 echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
 }
 
