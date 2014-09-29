@@ -235,6 +235,7 @@ printHeader () {
 clear
 echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
 echo "+             Google Nexus Toolkit untuk ubuntu v1 by @xnuxer46                +"
+echo "+              Sedang dikembangkan versi Offline, terima kasih                 +"
 echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
 }
 
