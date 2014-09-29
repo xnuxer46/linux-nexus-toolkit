@@ -608,7 +608,7 @@ echo "1. Nyalakan perangkat anda dan koneksikan ke PC via USB."
 echo "2. Di perangkat anda masuk ke 'Settings' >> 'Developer options', Tap ON,"
 echo "   dan centang 'USB debugging'. Sekarang anda berada di posisi Adroid Debugging Mode!"
 echo "   Note: Jika anda menggunakan Android 4.2 atau diatasnya, langkah pertama"
-echo "         'Settings' >> 'About phone' dan tap 7 times di 'Build number'."
+echo "         'Settings' >> 'About phone' dan tap 7 kali di 'Build number'."
 echo -n "3. Apakah anda akan memulai proses? [$YES_KEY/$NO_KEY]: "
 read KEY
 echo ""
